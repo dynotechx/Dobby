@@ -8,6 +8,8 @@ Dobby a lightweight, multi-platform, multi-architecture exploit hook framework.
 - Multi-platform support(Windows/macOS/iOS/Android/Linux)
 - Multiple architecture support(X86, X86-64, ARM, ARM64)
 
+Last official commit Nov 19-2022
+
 ## Compile
 
 [docs/compile.md](docs/compile.md)
@@ -24,3 +26,4 @@ Dobby a lightweight, multi-platform, multi-architecture exploit hook framework.
 4. [v8](https://github.com/v8/v8)
 5. [dart](https://github.com/dart-lang/sdk)
 6. [vixl](https://git.linaro.org/arm/vixl.git)
+n Nov 19, 2022
